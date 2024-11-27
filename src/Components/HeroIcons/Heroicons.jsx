@@ -41,11 +41,11 @@ function Iconhero() {
                 {Icons.map((Icon) => (
                     <Box
                         key={Icon.title}
-                        flexBasis={{ xs: "30%", md: "15%" }}
+                        flexBasis={{ xs: "30%", md: "18%" }}
                          // Responsive width
                         bgcolor="#FAFBFE" // Background color
                         p={2} // Padding for spacing inside the item
-                        justifyContent='center'
+                       
                         textAlign="center" // Center alignment
                     >
                         <Icon1
