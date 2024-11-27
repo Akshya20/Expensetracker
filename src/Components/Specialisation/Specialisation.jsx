@@ -66,7 +66,7 @@ function Iconhero1() {
                     </Box>
                 ))}
             </Box >
-            <Button variant="contained" size="large" sx={{marginTop:'20px',marginLeft:'891px'}}> View all </Button>
+            <Button variant="contained" size="large" sx={{marginTop:'20px',marginLeft:'691px'}}> View all </Button>
         </Box>
     );
 }
