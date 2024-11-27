@@ -17,7 +17,7 @@ import {
     return (
       <Box bgcolor="steelblue" pb={3} pt={6}>
         <Container maxWidth="xl">
-          <Box display="flex" flexWrap="wrap" gap={4}>
+          <Box display="flex" flexWrap="wrap" >
             {/* First Column */}
             <Box flexBasis={{ xs: "100%", md: "37.5%" }}>
               <Stack
